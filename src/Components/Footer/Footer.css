@@ -1,0 +1,9 @@
+.bodyfooter {
+	background-color: #242424e8;
+	padding: 40px;
+	border-radius: 10px;
+	text-align: center;
+	font-family: "Noto Serif JP", serif;
+	margin-top: 15%;
+	width: 100%;
+}
